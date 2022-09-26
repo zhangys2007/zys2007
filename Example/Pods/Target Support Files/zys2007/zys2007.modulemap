@@ -1,0 +1,6 @@
+framework module zys2007 {
+  umbrella header "zys2007-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - zys2007 (0.1.0)
+
+DEPENDENCIES:
+  - zys2007 (from `../`)
+
+EXTERNAL SOURCES:
+  zys2007:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zys2007: 6fbc56caf661eff01011e8a1232a4b8b6ec6ded3
+
+PODFILE CHECKSUM: b553e652971221f789739e5dd3aa576c3bcf3f3d
+
+COCOAPODS: 1.11.3
