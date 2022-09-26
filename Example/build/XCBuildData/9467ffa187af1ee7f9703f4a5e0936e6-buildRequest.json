@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983880bf57ddffe319d759c8595a3341ea"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dfd1fff6c719fc50c0d6bb30633f4733"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984c94591c47b795c65b9880380c479bb7"
+    }
+  ],
+  "containerPath" : "/Users/zhangys/Documents/GitHub/zys2007/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData/Pods-fzxgulpnxzfrpbaailextoufvrby/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData/Pods-fzxgulpnxzfrpbaailextoufvrby/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

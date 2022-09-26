@@ -1,9 +1,9 @@
 {
   "name": "zys2007",
   "version": "0.1.0",
-  "summary": "A short description of zys2007.",
+  "summary": "zhangys2007个人自用的pod库",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/张茨一飞/zys2007",
+  "homepage": "https://github.com/zhangys2007/zys2007",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "张茨一飞": "zhangys2007@163.com"
   },
   "source": {
-    "git": "https://github.com/张茨一飞/zys2007.git",
+    "git": "https://github.com/zhangys2007/zys2007.git",
     "tag": "0.1.0"
   },
   "platforms": {

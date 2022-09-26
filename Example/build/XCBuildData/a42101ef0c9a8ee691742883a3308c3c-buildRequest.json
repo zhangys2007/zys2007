@@ -1,0 +1,96 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9853a735b3dbcb86fa532787dbbe741ba1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985c0a7e82c5d1c938fed17788b954e3c1"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ebf44c806b065138013977ae3dac5bd4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e5199a3f70555689be7018ee7f9f878d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98144e62fa522ca0cc18d06652278f4b55"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98207fb7a6f5d4279422083ca7682ae1bb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98810951796d112b754e8d560b51957d79"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98213e427fb549ec24603f4c67a7463768"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e7b390481eed36e82336f0f81154713e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fb9b69652dcc61b73b668789cc187643"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983c17a3bfe89d9569c9fae6fd53f1dc2e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e3be389a010182c334a5c542b48f8dc5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983880bf57ddffe319d759c8595a3341ea"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dfd1fff6c719fc50c0d6bb30633f4733"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d9ae79ede0705279fe208b279ca38786"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c46180aea4e87057640961e6db37df0d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a115af7541190b3147e9aba39fe11417"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984c94591c47b795c65b9880380c479bb7"
+    }
+  ],
+  "containerPath" : "/Users/zhangys/Documents/GitHub/zys2007/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData/Pods-fzxgulpnxzfrpbaailextoufvrby/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zhangys/Library/Developer/Xcode/DerivedData/Pods-fzxgulpnxzfrpbaailextoufvrby/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

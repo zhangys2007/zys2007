@@ -9,6 +9,22 @@ target 'zys2007_Example' do
     inherit! :search_paths
 
   pod 'AFNetworking'                  #网络加载
-
+  pod 'LEEAlert'                      #警告框
+  pod 'LEEAlert'                      #警告框
+  pod 'Masonry'                       #自适应布局
+  pod 'IQKeyboardManager'             #键盘
+  pod 'MJRefresh'                     #刷新,加载更多
+  pod 'MJExtension'                   #JSON
+  ##    pod 'ReactiveCocoa', '2.5'
+  pod 'ReactiveObjC'                  #响应
+  pod 'SDWebImage'                    #图片加载
+  pod 'MBProgressHUD'                 #吐司
+  pod 'FSTextView'                    #输入框
+  pod 'IFMMenu'                       #Menu
+  pod 'BRPickerView'                  #日期选择器
+  pod 'DZNEmptyDataSet'               #空白页
+  pod 'SPPageMenu'                    #分页
+  pod 'FMDB'                          #数据存储
+  
   end
 end

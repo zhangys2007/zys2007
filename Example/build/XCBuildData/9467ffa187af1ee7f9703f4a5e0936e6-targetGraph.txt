@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+zys2007 in Pods, no dependencies
+Pods-zys2007_Example in Pods, depends on:
+zys2007 in Pods (explicit)
+Pods-zys2007_Tests in Pods, depends on:
+Pods-zys2007_Example in Pods (explicit)
