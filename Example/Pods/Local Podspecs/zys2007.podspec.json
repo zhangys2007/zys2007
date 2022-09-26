@@ -1,21 +1,21 @@
 {
   "name": "zys2007",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "zhangys2007个人自用的pod库",
   "description": "zys2007通用基础框架，包含：基础框架控制器与一些实用的工具类,二次封装三方库的一些工具",
-  "homepage": "https://github.com/zhangys2007/zys2007",
+  "homepage": "https://github.com/zhangys2007",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zhangys2007": "zhangys2007@163.com"
+    "张茨一飞": "zhangys2007@163.com"
   },
   "source": {
     "git": "https://github.com/zhangys2007/zys2007.git",
-    "tag": "0.1.4"
+    "tag": "0.1.5"
   },
-  "social_media_url": "https://zhangys2007.github.io/",
+  "social_media_url": "https://www.jianshu.com/u/4110a4993a32",
   "platforms": {
     "ios": "10.0"
   },
