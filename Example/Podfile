@@ -5,9 +5,6 @@ platform :ios, '10.0'
 target 'zys2007_Example' do
   pod 'zys2007', :path => '../'
 
-  target 'zys2007_Tests' do
-    inherit! :search_paths
-
   pod 'AFNetworking'                  #网络加载
   pod 'LEEAlert'                      #警告框
   pod 'LEEAlert'                      #警告框
@@ -15,7 +12,7 @@ target 'zys2007_Example' do
   pod 'IQKeyboardManager'             #键盘
   pod 'MJRefresh'                     #刷新,加载更多
   pod 'MJExtension'                   #JSON
-  ##    pod 'ReactiveCocoa', '2.5'
+  #    pod 'ReactiveCocoa', '2.5'
   pod 'ReactiveObjC'                  #响应
   pod 'SDWebImage'                    #图片加载
   pod 'MBProgressHUD'                 #吐司
@@ -25,6 +22,9 @@ target 'zys2007_Example' do
   pod 'DZNEmptyDataSet'               #空白页
   pod 'SPPageMenu'                    #分页
   pod 'FMDB'                          #数据存储
+
+  target 'zys2007_Tests' do
+    inherit! :search_paths
   
   end
 end
