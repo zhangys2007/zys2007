@@ -43,7 +43,7 @@ PODS:
     - SDWebImage/Core (= 5.13.3)
   - SDWebImage/Core (5.13.3)
   - SPPageMenu (3.5.0)
-  - zys2007 (0.1.3)
+  - zys2007 (0.1.4)
 
 DEPENDENCIES:
   - AFNetworking
@@ -101,8 +101,8 @@ SPEC CHECKSUMS:
   ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
   SDWebImage: af5bbffef2cde09f148d826f9733dcde1a9414cd
   SPPageMenu: da182aafcec55719d5c326103cc7716c1e48f311
-  zys2007: 8648e8d9bc856293e05b4f24333491fc586c6a04
+  zys2007: 3b0d9ebc75e3b8497ff0a0d7b47fec62d69b2955
 
-PODFILE CHECKSUM: 5ecb42e0d80147b79406115778852aa0c7aee0b2
+PODFILE CHECKSUM: 33102fdc7dba965f5656a6b227dae6b01fabfe45
 
 COCOAPODS: 1.11.3
