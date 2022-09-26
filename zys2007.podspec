@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
   zys2007通用基础框架，包含：基础框架控制器与一些实用的工具类,二次封装三方库的一些工具
                    DESC
 
-  s.homepage         = 'https://github.com/zhangys2007/zys2007'
+  s.homepage         = 'https://github.com/zhangys2007'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhangys2007' => 'zhangys2007@163.com' }
+  s.author           = { '张茨一飞' => 'zhangys2007@163.com' }
   s.source           = { :git => 'https://github.com/zhangys2007/zys2007.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://zhangys2007.github.io/'
+  s.social_media_url = 'https://www.jianshu.com/u/4110a4993a32'
 
   s.ios.deployment_target = '10.0'
 
